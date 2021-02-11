@@ -22,3 +22,11 @@ footer {
 .topic_msg {
     font-weight: lighter;
 }
+
+.nav-item {
+    font-weight: bold;
+}
+
+.nav-item:hover {
+    color: lightgreen;
+}

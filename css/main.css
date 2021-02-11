@@ -8,10 +8,8 @@ footer {
     margin: 0px;
     padding: 0px;
     color: white;
-    background-color: #3c3c3a;
-
     background-color: #393939;
-    background-color: #343434;
+
 }
 
 .topic {
@@ -29,4 +27,14 @@ footer {
 
 .nav-item:hover {
     color: lightgreen;
+}
+
+.footer_space {
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.footer_final {
+    background-color: #343434;
 }

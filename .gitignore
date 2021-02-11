@@ -1,3 +1,5 @@
-.DS_STORE
-tests
-test
+.DS_STORE*
+tests*
+exclude*
+temp*
+tmp*

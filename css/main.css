@@ -2,6 +2,7 @@ body {
     margin: auto;
     padding: 0px;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: lightgray;
 }
 
 footer {
@@ -9,7 +10,6 @@ footer {
     padding: 0px;
     color: white;
     background-color: #393939;
-
 }
 
 .footer_space {
@@ -23,7 +23,6 @@ footer {
     padding-left: 20px;
     padding-right: 20px;
 }
-
 
 .topic {
     text-transform: capitalize;
@@ -41,5 +40,4 @@ footer {
 .nav-item:hover {
     color: lightgreen;
 }
-
 

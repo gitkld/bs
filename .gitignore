@@ -1,8 +1,8 @@
 .DS_Store*
-tests*
+tests
 exclude*
 temp*
 tmp*
 old*
-test*
+test
 

@@ -1,15 +1,15 @@
-*WEB SERVER UPDATE*
+## WM Site test-frontend
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-- Improve slides
+- 🔭 Currently working on Front-End programming.
 
-- Bootstrap Changes
+Fork of https://github.com/marizcomunicacao/teste-front-end
 
-- Site optimization
+## Connect with me
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
 
-	Added:
-		favicon
-		HD Images
-
-- Code Fixes
-
-- Remove old/* directory
+[linkedin]: https://www.linkedin.com/in/renanalmeida21/

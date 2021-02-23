@@ -2,23 +2,15 @@
     background-image: url("../images/rectangle.png");
 }
 
-<<<<<<< HEAD
 #horas{
     background-color: gray;
     border: 2px solid red;
 }
 
-=======
->>>>>>> response
 .horasblocks{
     padding: 20px 20px 40px 40px;
     text-align:center;
 }
-<<<<<<< HEAD
-
-#novidades {
-=======
->>>>>>> response
 
 #novidades {
     background-color: rgb(249,250,251);
@@ -31,19 +23,11 @@
     margin-right: 20px;
 }
 
-<<<<<<< HEAD
-mainbox{
-=======
 .mainbox{
->>>>>>> response
     margin-left: 30px;
     margin-right: 30px;
 }
 
-<<<<<<< HEAD
-.servicosbox {
-
-=======
 .chamada{
     text-shadow: 1px 1px black;
     color: white;
@@ -52,7 +36,6 @@ mainbox{
 .servicosbox {
     padding-top: 30px;
     padding-bottom: 30px;
->>>>>>> response
 }
 
 .servicoscol{
@@ -65,17 +48,8 @@ mainbox{
     height:1px;
     width:100%;
     border-top:1px solid lightgray;
-<<<<<<< HEAD
-=======
 }
 
-.w-divider{
-    margin-top:10px;
-    margin-bottom:10px;
-    height:1px;
-    width:100%;
-    border-top:1px solid lightgray;
-}
 .w-divider-call{
     margin-top: 50px;
     margin-bottom: 30px;
@@ -91,5 +65,4 @@ mainbox{
     font-weight: bold;
     font-size: 16px;
     color: #252525;
->>>>>>> response
 }

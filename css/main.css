@@ -1,5 +1,4 @@
 body {
-//    margin: auto;
     margin-left: 40px;
     margin-right: 40px;
     padding: 0px;
@@ -28,12 +27,8 @@ footer {
 .topic {
     text-transform: capitalize;
     font-weight: bold;
-<<<<<<< HEAD
     padding-top: 60px;
     font-size: 25px;
-=======
-    padding-top: 50px;
->>>>>>> response
 }
 
 .topic_msg {
@@ -47,11 +42,3 @@ footer {
 .nav-item:hover {
     color: lightgreen;
 }
-<<<<<<< HEAD
-
-.carousel-caption{
-    border: 3px solid red;
-
-}
-=======
->>>>>>> response

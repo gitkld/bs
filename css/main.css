@@ -26,6 +26,7 @@ footer {
 .topic {
     text-transform: capitalize;
     font-weight: bold;
+    padding-top: 50px;
 }
 
 .topic_msg {

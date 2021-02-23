@@ -1,9 +1,19 @@
 #servicos{
-    
+
+}
+
+#horas{
+    background-image: url("../images/retangle.png");
+    border: 2px solid red;
+}
+
+.horasblocks{
+    padding: 20px 20px 40px 40px;
+    text-align:center;
 }
 
 #novidades {
-
+    background-color: rgb(249,250,251);
 }
 
 #novidades_slide{
@@ -11,4 +21,50 @@
     margin-top: 40px;
     margin-left: 20px;
     margin-right: 20px;
+}
+
+#umsimplescall{
+    margin: 0px;
+    padding: 0px;
+}
+
+.mainbox{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.chamada{
+    text-shadow: 1px 1px black;
+}
+
+.servicosbox {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.servicoscol{
+    padding: 10px;
+}
+
+.w-divider{
+    margin-top:10px;
+    margin-bottom:10px;
+    height:1px;
+    width:100%;
+    border-top:1px solid lightgray;
+}
+
+.w-divider{
+    margin-top:10px;
+    margin-bottom:10px;
+    height:1px;
+    width:100%;
+    border-top:1px solid lightgray;
+}
+.w-divider-call{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    height:1px;
+    width:100%;
+    border-top:1px solid lightgray;
 }

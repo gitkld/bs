@@ -1,9 +1,8 @@
 ._.*
 blob*
 .DS_Store*
-tests
+._.DS_Store*
 exclude*
 temp*
 tmp*
 old*
-test

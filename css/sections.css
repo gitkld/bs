@@ -2,14 +2,9 @@
     background-image: url("../images/rectangle.png");
 }
 
-#horas{
-    background-color: gray;
-    border: 2px solid red;
-}
-
 .horasblocks{
-    padding: 20px 20px 40px 40px;
-    text-align:center;
+//    padding: 20px 20px 40px 40px;
+    text-align: center;
 }
 
 #novidades {
@@ -21,6 +16,15 @@
     margin-top: 40px;
     margin-left: 20px;
     margin-right: 20px;
+}
+
+#umsimplescall{
+    margin: 0px;
+    padding: 0px;
+    padding-bottom: 40px;
+    font-weight: bold;
+    font-size: 16px;
+    color: #252525;
 }
 
 .mainbox{
@@ -56,13 +60,4 @@
     height:1px;
     width:100%;
     border-top:1px solid lightgray;
-}
-
-#umsimplescall{
-    margin: 0px;
-    padding: 0px;
-    padding-bottom: 40px;
-    font-weight: bold;
-    font-size: 16px;
-    color: #252525;
 }

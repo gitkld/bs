@@ -35,8 +35,18 @@ footer {
     font-weight: lighter;
 }
 
+.topic_divider{
+    margin-top:10px;
+    margin-bottom:20px;
+    height:1px;
+    width:5%;
+    border-top: 2px solid black;
+    text-alig: center;
+}
+
 .nav-item {
     font-weight: bold;
+    text-transform: capitalize;
 }
 
 .nav-item:hover {

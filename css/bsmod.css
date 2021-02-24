@@ -1,0 +1,32 @@
+.nav-item {
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.nav-item:hover {
+    color: lightgreen;
+}
+
+
+.bnt-white {
+    color: #f8f9fa;
+    background-color: transparent;
+    background-image: none;
+    border-color: #f8f9fa;
+    text-shadow: 1px 1px black;
+  }
+  
+  .bnt-white:hover {
+    color: white;
+    background-color: green;
+    border-color: #green;
+  }
+  
+  .bnt-white:focus, .bnt-white.focus {
+    box-shadow: 0 0 0 0.2rem rgba(248, 249, 250, 0.5);
+  }
+  
+  .bnt-white.disabled, .bnt-white:disabled {
+    color: #f8f9fa;
+    background-color: transparent;
+  }

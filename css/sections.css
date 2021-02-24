@@ -3,8 +3,12 @@
 }
 
 .horasblocks{
-//    padding: 20px 20px 40px 40px;
     text-align: center;
+    padding-top:50px;
+    padding-bottom: 50px;
+    margin: auto;
+    width: 90%;
+    border: 1px solid black;
 }
 
 #novidades {
